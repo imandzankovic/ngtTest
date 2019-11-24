@@ -1,8 +1,9 @@
-# Pluralsight's Unit Testing in Angular Course
-This course is up to date.
+## Testing with Angular
 
-To get started, clone the repo or download it
+Generating tests in Angular.
+Simple project made to get familiar with testing in Angular.
 
-npm install
-npm test
-# ngtTest
+## Tech/framework used
+
+Jasmine, Karma
+
